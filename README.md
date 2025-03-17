@@ -44,9 +44,8 @@ This project includes **one comprehensive dashboard** built using **Excel, Power
 
 ![Dashboard](![Screenshot 2025-03-17 132121](https://github.com/user-attachments/assets/a1b104bf-e39d-4f09-91eb-2ee480bbfb74)
 )  
-![Dashboard](![image](https://github.com/user-attachments/assets/5cb09092-f2e4-4834-809e-10c704eb4156)
+![Dashboard](![Screenshot 2025-03-17 132707](https://github.com/user-attachments/assets/94872165-c545-43b0-94fd-a083a232281f)
 )
-
 
 ## 🎯 Conclusion  
 🔹 **Summary of Insights:** The project effectively highlights **account executive performance, revenue bottlenecks, and high-performing policies.** Key takeaways include **low client engagement trends, inefficiencies in the sales funnel, and opportunities for revenue growth.**  
