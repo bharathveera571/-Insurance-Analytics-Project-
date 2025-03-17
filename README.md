@@ -42,7 +42,8 @@ This project provides a **deep dive into insurance industry data** by tracking k
 ## 📊 Dashboard  
 This project includes **one comprehensive dashboard** built using **Excel, Power BI, and Tableau** to provide insights into **policy sales, account executive performance, and revenue trends**.  
 
-![Dashboard](https://your_image_link_here)  
+![Dashboard](![Screenshot 2025-03-17 132121](https://github.com/user-attachments/assets/a1b104bf-e39d-4f09-91eb-2ee480bbfb74)
+)  
 
 ## 🎯 Conclusion  
 🔹 **Summary of Insights:** The project effectively highlights **account executive performance, revenue bottlenecks, and high-performing policies.** Key takeaways include **low client engagement trends, inefficiencies in the sales funnel, and opportunities for revenue growth.**  
